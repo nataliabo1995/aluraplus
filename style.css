@@ -36,6 +36,11 @@ body {
     grid-template-columns: 50% 50%;
 }
 
+.container__logo {
+    width: 50%;
+    margin: 2em;
+}
+
 .container__botao {
     background-color: var(--botao-azul);
     border-radius: 8px;
