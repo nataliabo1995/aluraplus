@@ -24,8 +24,7 @@ body {
     background-image: url("./assets/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
-    /* background-size: cover; */
-    /* background-position: right; */
+    background-position: right;
     align-items: center;
     text-align: center;
 }
